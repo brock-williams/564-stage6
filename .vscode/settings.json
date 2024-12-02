@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "catalog.C": "cpp",
+        "bufHash.C": "cpp",
+        "select.C": "cpp",
+        "heapfile.C": "cpp",
+        "insert.C": "cpp",
+        "delete.C": "cpp"
+    }
+}
